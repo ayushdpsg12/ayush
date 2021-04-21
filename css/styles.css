@@ -1,0 +1,306 @@
+
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-bottom: 0;
+  }
+/* Add a black background color to the top navigation */
+  .topnav {
+  overflow: hidden;
+  background-color: #C3073F;
+  width: 34%;
+  margin-left: 420px;
+  margin-top: 30px;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ffe268;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.mypic h1{
+   font-size:50px;
+   color: #046582;
+    text-align: center;
+    font-family:"Lucida Handwriting", "Brush Script MT", cursive;
+    margin-bottom: 10px;
+  }
+
+.mypic h2{
+       font-size:30px;
+       color: #046582;
+        text-align: center;
+        font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+        margin-top: 0
+
+}
+.mypic img{
+  border-radius: 75px;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 50px;
+}
+.introduction p
+{  margin-top: 80px;
+  font-size:30px;
+  color: #046582;
+   text-align: center;
+   font-family: "Garamond", "Georgia", serif;
+   margin-top: 0
+}
+
+footer {
+  font-size: 30px;
+  text-align: center;
+  padding:0px;
+  background-color: #f8ede3;
+  color: #798777;
+  margin-bottom:  0;
+  margin-top: 100px;
+}
+
+.edu
+{background-color: #caf7e3;}
+
+.heading h1{
+  font-size:40px;
+  color: #046582;
+   text-align: center;
+   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+   margin-top: 50px;
+   margin-bottom: 0;
+}
+.scholar{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.stpa{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 0px;
+   margin-top: 60px;
+    border: 8px solid #007580;
+}
+
+.dpsg{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 0px;
+    margin-top: 60px;
+     border: 8px solid #007580;
+}
+
+ .iitkgp{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 0px;
+    margin-top: 60px;
+     border: 8px solid #007580;
+}
+
+.stp{
+  width: 40%;
+    margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+   border: 8px solid #007580;
+}
+.dps{
+  width: 40%;
+    margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+   border: 8px solid #007580;
+}
+.kgp{
+  width: 40%;
+    margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+   border: 8px solid #007580;
+}
+.stp h1{
+  font-size:30px;
+  color: #046582;
+   text-align: center;
+   font-family:"Lucida Handwriting", "Brush Script MT", cursive;
+  }
+.dps h1{
+  font-size:30px;
+  color: #046582;
+   text-align: center;
+   font-family:"Lucida Handwriting", "Brush Script MT", cursive;
+  }
+  .kgp h1{
+    font-size:30px;
+    color: #046582;
+     text-align: center;
+     font-family:"Lucida Handwriting", "Brush Script MT", cursive;
+    }
+ .dotted{
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 15%;
+ }
+
+
+ input[type=text], select, textarea {
+  width: 50%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a04900;
+}
+
+.container {
+  margin-top: 40px;
+  margin-left: 300px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 50%;
+}
+.socialm{
+  width: 40%;
+    margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+   border: 3px solid #e84545;
+}
+.img1{
+  margin-left: 200px;
+}
+.last{
+  font-size: 30px;
+  text-align: center;
+  padding:0px;
+  background-color: #d0af84;
+  color: #798777;
+  margin-bottom:  0;
+}
+.socialm h3{
+  font-size:30px;
+  color: #433520;
+   text-align: center;
+   font-family: "Garamond", "Georgia", serif;
+   margin-top: 0
+}
+.skills-row1{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+    border: 3px solid #2E1114;
+}
+.program{
+  width: 50%;
+  float: left;
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 10px;
+
+}
+.skills-row2{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+    border: 3px solid  #2E1114;
+}
+.skills-row3{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+    border: 3px solid #2E1114;
+}
+.skills-row4{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  border: 3px solid  #2E1114;
+}
+
+.skills-row1 p
+{   padding-top: 0;
+  font-size:20px;
+  color: "black";
+   text-align: center;
+   font-family: "Garamond", "Georgia", serif;
+   margin-top: 0
+}
+.skills-row2 p
+{   padding-top: 0;
+  font-size:20px;
+  color: "black";
+   text-align: center;
+   font-family: "Garamond", "Georgia", serif;
+   margin-top: 0
+}
+.skills-row3 p
+{  padding-top: 0;
+  font-size:20px;
+  color: "black";
+   text-align: center;
+   font-family: "Garamond", "Georgia", serif;
+   margin-top: 0
+}
+.skills-row4 p
+{   padding-top: 0;
+  font-size:20px;
+  color: "black";
+   text-align: center;
+   font-family: "Garamond", "Georgia", serif;
+   margin-top: 0
+}
+.skills-row1 h1
+{margin-bottom:  0;}
+.skills-row2 h1
+{margin-bottom:  0;}
+.skills-row3 h1
+{margin-bottom:  0;}
+.skills-row4 h1
+{margin-bottom:  0;}
